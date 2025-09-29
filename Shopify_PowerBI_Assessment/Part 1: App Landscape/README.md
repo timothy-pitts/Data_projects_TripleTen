@@ -1,6 +1,6 @@
 ## Part 1: App Landscape 🌍📱
 First, I found key statistics on the types of apps that are in the dataset using the Apps table. 🔍  
-I created a new sheet in my Power BI (.pbix) file called App Landscape for this analysis, and I took a screenshot for each question I answered. 📸  
+I created a new sheet in my Power BI (.pbix) file called App Landscape for this analysis.
 
 - I built a KPI Card that shows the unique number of apps and added it to the App Landscape sheet. 🔢📊  
 - Next, I made a Line Chart with the sum of the review count on the Y-axis and the lastmod date on the X-axis, making sure not to use the “date hierarchy” format for the X-axis. 📈🗓️  
