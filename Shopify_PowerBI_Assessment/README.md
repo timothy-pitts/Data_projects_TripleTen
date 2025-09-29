@@ -1,4 +1,4 @@
-# Shopify_Power_Bi_Assessment
+# Shopify_Power_BI_Assessment
 
 - For the project, I was to review the landscape of apps on the Shopify platform, :iphone: using data scraped from publicly available Shopify websites. 
 - My goal was to figure out what key factors play into the success of a Shopify app. 
