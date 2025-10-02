@@ -6,3 +6,4 @@
 - 🔍 Then, in cell G2, I wrote a formula using VLOOKUP() to pull in the first purchase date from the “first_purchase” sheet, matching it against the user ID in cell A2.  
 - ✅ Once I confirmed the ranges in my formula were correct, I copied it all the way down column G.  
 - 🔎 To validate the data, I checked that none of the first_purchase_date values were later than their corresponding purchase_date values.  
+<img width="509" height="785" alt="image" src="https://github.com/user-attachments/assets/f1b5f412-daa8-4585-8411-c01c18319710" />
