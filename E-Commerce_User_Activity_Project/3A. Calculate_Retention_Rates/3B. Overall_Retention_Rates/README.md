@@ -3,3 +3,4 @@
 - I added row labels in cells A3 to A7 🔠 for each cohort in chronological order 📅. 
 - Then, I added column labels in cells B2 to E2 📋 to represent the cohort ages from 1️⃣ to 4️⃣ months.
 - In cell B3, I wrote a formula ➗ that calculated the retention rate for each cohort at each cohort age, based on the starting cohort sizes 👥.  
+<img width="629" height="193" alt="image" src="https://github.com/user-attachments/assets/89f08c2a-22f7-46a0-90a9-38c8b8455703" />
