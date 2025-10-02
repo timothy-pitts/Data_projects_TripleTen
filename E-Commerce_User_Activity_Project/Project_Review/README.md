@@ -13,3 +13,5 @@ Congratulations on submitting your second Excel project! 🎉 Another milestone 
 - Brilliant job overall — your project has been accepted! ✅
 
 Keep up the great work, and best of luck in your next sprint. You've got this! 🚀"
+
+<img width="804" height="560" alt="image" src="https://github.com/user-attachments/assets/c070665c-32a3-4d26-aab9-4079451a0668" />
