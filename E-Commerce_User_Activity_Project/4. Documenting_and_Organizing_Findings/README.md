@@ -9,4 +9,7 @@
 - I also filled in the “Table of Contents” table 📑 with the organized sheet order and included a short one-sentence description 🗒️ of each section.  
 - Finally, I formatted the spreadsheets 🎨 for readability — adjusting numbers 🔢 and dates 📅, adding table borders ▫️, bolding column headers 🖊️, freezing rows 📌, and highlighting cells with calculations ✨.  
 
-#### I used my best judgment ✅ to make the spreadsheets polished and clear, the kind of report I’d want to receive if I were an executive 💼.  
+#### I used my best judgment ✅ to make the spreadsheets polished and clear, the kind of report I’d want to receive if I were an executive 💼. 
+
+<img width="1693" height="305" alt="image" src="https://github.com/user-attachments/assets/02758487-a51d-4458-b7a1-ed4f30f6e29e" />
+
