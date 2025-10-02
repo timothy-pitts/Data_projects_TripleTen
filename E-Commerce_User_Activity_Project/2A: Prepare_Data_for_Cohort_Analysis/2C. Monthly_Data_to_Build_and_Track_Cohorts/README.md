@@ -8,3 +8,4 @@
 - 🔢 Finally, in column J, I used the DATEDIF() function to calculate cohort_age, measuring the number of months between the first purchase date and the event date.
 - ✅ I checked my results and confirmed that the cohort ages ranged properly from 0 to 4 months.
 
+<img width="1238" height="184" alt="image" src="https://github.com/user-attachments/assets/aa833e7c-d81d-4257-8edc-811999f082b9" />
