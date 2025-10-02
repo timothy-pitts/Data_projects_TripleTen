@@ -4,3 +4,5 @@
 - I configured the pivot table so that each cohort represented the month 📅 in which customers made their first purchase 🛒. 
 - This resulted in six cohorts 6️⃣. 
 - I also set up the pivot table to include the count of unique users 👥 for each cohort_age in the columns.  
+
+<img width="402" height="188" alt="image" src="https://github.com/user-attachments/assets/cef22288-55dd-4ac5-8142-d24fc4ce3451" />
