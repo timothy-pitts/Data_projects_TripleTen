@@ -10,7 +10,7 @@ At Zomato, the BI-Analytics Team 🧠 typically focuses on three main types of a
 - **Sales Analysis 💰:** How do sales and revenue evolve over time? What are the key KPIs and trends in the distribution of sales?  
 
 I decided to choose the 2nd option: **Which restaurants are the most popular and generate the highest revenue? What factors drive their success?**
-To answer these questions, 
-- I developed & presented an interactive dashboard 📈
-- Highlighted insights from my chosen analysis area
-- Summarized key findings in a report 📑.
+To answer these questions:
+- I wrote a [Project Plan Decomposition](https://github.com/timothy-pitts/Data_projects_TripleTen/tree/main/Zomato_Business_Performance_Final_Project/Decomposition) to break down my plan for answering the question :clipboard:
+- I developed & presented an interactive [Tableau Dashboard](https://public.tableau.com/app/profile/tim5073/viz/FinalProjectBusinessProblemZomato/Dashboard1#1) 📈
+- I summarized key findings in a [Report](https://github.com/timothy-pitts/Data_projects_TripleTen/tree/main/Zomato_Business_Performance_Final_Project/Report) 📑
