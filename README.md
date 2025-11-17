@@ -1,5 +1,5 @@
 # Data_projects_TripleTen
-Projects I worked on while attending the Data Analysis TripleTen Bootcamp.
+Projects I worked on while attending the Business Intelligence Analysis TripleTen Bootcamp.
 
 
 | Project number | Title | Description |
@@ -10,3 +10,4 @@ Projects I worked on while attending the Data Analysis TripleTen Bootcamp.
 | 4 | [Saving Superstore Tableau Project](https://github.com/timothy-pitts/Data_projects_TripleTen/tree/main/Saving_Superstore_Tableau_Project) | This Data Visualization with Tableau project uses the Superstore dataset to analyze profits and losses, evaluate advertising opportunities by state and month, and investigate product return rates through targeted visualizations to provide actionable insights for improving the superstore’s profitability and operational decisions. |
 | 5 |  [Storytelling with Data](https://github.com/timothy-pitts/Data_projects_TripleTen/tree/main/Storytelling_with_Data)  | Completed Tableau assignment with TripleTen preparing an analysis of a store to investigate what is causing customers to return their orders and how to reduce the volume of returned orders. |
 | 6 | [Zomato Business Performance Final Project](https://github.com/timothy-pitts/Data_projects_TripleTen/tree/main/Zomato_Business_Performance_Final_Project) | Analyzed restaurant data to identify revenue-driving factors and top-performing restaurants, planned the project, built an interactive Tableau dashboard, and delivered actionable insights in a detailed report.
+| 7 | [Python Online Retailer](https://github.com/timothy-pitts/Data_projects_TripleTen/tree/main/Python%20Online%20Retailer) | A hands on project with Python I did as an optional course through the TripleTen bootcamp, where I was tasked with manipulating lists and tuples 📊 to extract meaningful insights from the raw data for an online retail store.|
